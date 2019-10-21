@@ -26,9 +26,9 @@ description: Various pretentious quotes that I have found meaningful over time.
 
 \*\*\*\*
 
-> Don't ask how to survive or how to be successful, ask how to be usefu
+> Don't ask how to survive or how to be successful, ask how to be useful
 
-l
+
 
 > Here’s a fun game. Ask yourself: What strongly held opinion of mine will my grandchildren one day struggle to understand?
 >
