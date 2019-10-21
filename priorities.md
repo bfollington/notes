@@ -16,7 +16,7 @@ description: >-
 
 3. **General perspective and knowledge**
 
-   Reading articles & books, listening to podcasts, travel, drugs.
+   Reading articles & books, listening to podcasts, travel, perspective enhancing substances.
 
 4. **Social activity**
 
