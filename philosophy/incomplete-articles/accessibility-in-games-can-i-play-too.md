@@ -1,9 +1,3 @@
----
-description: >-
-  This came out of the discussion around Sekiro being too hard, I never ended up
-  polishing it in time to be relevant. So, here it stays.
----
-
 # Accessibility in Games: Can I Play Too?
 
 * Accessibility vs difficulty
