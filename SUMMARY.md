@@ -1,10 +1,33 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Manifesto](README.md)
+* [Priorities](priorities.md)
 
 ## Philosophy
 
 * [Quotes](philosophy/quotes.md)
+* [Musings](philosophy/musings/README.md)
+  * [Ethical Software](philosophy/musings/ethical-software.md)
+  * [Being "Good"](philosophy/musings/being-good.md)
+  * [Path](philosophy/musings/path.md)
+  * [Clarity and Presence](philosophy/musings/clarity-and-presence.md)
+  * [Buddhism](philosophy/musings/buddhism.md)
+  * [Emotions vs Reason](philosophy/musings/emotions-vs-reason.md)
+  * [Accepting Ideas](philosophy/musings/accepting-ideas.md)
+  * [Importance](philosophy/musings/importance.md)
+  * [The Compliment](philosophy/musings/the-compliment.md)
+  * [Incorrect Assumptions](philosophy/musings/incorrect-assumptions.md)
+* [Incomplete Articles](philosophy/incomplete-articles/README.md)
+  * [The Hustle](philosophy/incomplete-articles/the-hustle.md)
+  * [Sense and Sensation](philosophy/incomplete-articles/sense-and-sensation.md)
+  * [Truly Celebrating Difference](philosophy/incomplete-articles/truly-celebrating-difference.md)
+  * [Love, for Overthinkers](philosophy/incomplete-articles/love-for-overthinkers.md)
+  * [There's No Accounting For Taste](philosophy/incomplete-articles/theres-no-accounting-for-taste.md)
+  * [Optimism for Cynical Assholes](philosophy/incomplete-articles/optimism-for-cynical-assholes.md)
+  * [Moral Optimisation](philosophy/incomplete-articles/moral-optimisation.md)
+  * [How to stay off your phone](philosophy/incomplete-articles/how-to-stay-off-your-phone.md)
+  * [Accessibility in Games: Can I Play Too?](philosophy/incomplete-articles/accessibility-in-games-can-i-play-too.md)
+  * [Why I Like Video Games](philosophy/incomplete-articles/why-i-like-video-games.md)
 
 ## Archives
 
@@ -12,18 +35,4 @@
   * [Hunter S Thompson on Meaning](archives/other-peoples-work/hunter-s-thompson-on-meaning.md)
   * [The Church of Interruption](archives/other-peoples-work/the-church-of-interruption.md)
   * [1000 True Fans](archives/other-peoples-work/1000-true-fans.md)
-
-## Musings
-
-* [Musings](musings/musings/README.md)
-  * [Ethical Software](musings/musings/ethical-software.md)
-  * [Being "Good"](musings/musings/being-good.md)
-  * [Path](musings/musings/path.md)
-  * [Clarity and Presence](musings/musings/clarity-and-presence.md)
-  * [Buddhism](musings/musings/buddhism.md)
-  * [Emotions vs Reason](musings/musings/emotions-vs-reason.md)
-  * [Accepting Ideas](musings/musings/accepting-ideas.md)
-  * [Importance](musings/musings/importance.md)
-  * [The Compliment](musings/musings/the-compliment.md)
-  * [Incorrect Assumptions](musings/musings/incorrect-assumptions.md)
 
