@@ -8,6 +8,8 @@ description: Various pretentious quotes that I have found meaningful over time.
 >
 > **Awareness - Anthony De Mello**
 
+> What is it that you are unwilling to feel?
+
 > The more you know about love, the less important it is who you are loving  
 >   
 > **Alain de Botton**
