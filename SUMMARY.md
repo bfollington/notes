@@ -13,3 +13,17 @@
   * [The Church of Interruption](archives/other-peoples-work/the-church-of-interruption.md)
   * [1000 True Fans](archives/other-peoples-work/1000-true-fans.md)
 
+## Musings
+
+* [Musings](musings/musings/README.md)
+  * [Ethical Software](musings/musings/ethical-software.md)
+  * [Being "Good"](musings/musings/being-good.md)
+  * [Path](musings/musings/path.md)
+  * [Clarity and Presence](musings/musings/clarity-and-presence.md)
+  * [Buddhism](musings/musings/buddhism.md)
+  * [Emotions vs Reason](musings/musings/emotions-vs-reason.md)
+  * [Accepting Ideas](musings/musings/accepting-ideas.md)
+  * [Importance](musings/musings/importance.md)
+  * [The Compliment](musings/musings/the-compliment.md)
+  * [Incorrect Assumptions](musings/musings/incorrect-assumptions.md)
+
