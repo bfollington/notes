@@ -15,6 +15,5 @@
   * Be present
   * Connect with the ones you love
   * Realise that none of it really matters
-* You don't have to demonize it, I wrote this articles first draft on my phone
+* You don't have to demonize it, I wrote this on my phone
 * Take the good and leave the bad
-* 
