@@ -1,7 +1,5 @@
 # Moral Optimisation
 
-
-
 * Moral Constructivist
 * Naturalist
 * Talk about adaptive moral advantage for the environment

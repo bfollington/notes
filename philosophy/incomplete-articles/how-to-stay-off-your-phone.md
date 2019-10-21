@@ -17,3 +17,4 @@
   * Realise that none of it really matters
 * You don't have to demonize it, I wrote this on my phone
 * Take the good and leave the bad
+
