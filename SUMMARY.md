@@ -7,6 +7,7 @@
 
 * [Quotes](philosophy/quotes.md)
 * [Musings](philosophy/musings/README.md)
+  * [Float](philosophy/musings/float.md)
   * [Mission Statement](philosophy/musings/mission-statement.md)
   * [Depressive Episodes](philosophy/musings/depressive-episodes.md)
   * [Authenticity](philosophy/musings/authenticity.md)
