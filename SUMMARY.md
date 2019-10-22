@@ -7,6 +7,10 @@
 
 * [Quotes](philosophy/quotes.md)
 * [Musings](philosophy/musings/README.md)
+  * [Growth and Chaos](philosophy/musings/growth-and-chaos.md)
+  * [Stillness](philosophy/musings/stillness.md)
+  * [Ego](philosophy/musings/ego.md)
+  * [Sum of the Parts](philosophy/musings/sum-of-the-parts.md)
   * [Float](philosophy/musings/float.md)
   * [Mission Statement](philosophy/musings/mission-statement.md)
   * [Depressive Episodes](philosophy/musings/depressive-episodes.md)
