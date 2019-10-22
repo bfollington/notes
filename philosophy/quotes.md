@@ -14,7 +14,13 @@ description: Various pretentious quotes that I have found meaningful over time.
 
 
 
-> The more you know about love, the less important it is who you are loving  
+> Moderation is a fatal thing... Nothing succeeds like excess.
+>
+> **Oscar Wilde**
+
+
+
+> The more you know about love, the less important it is who you are loving.  
 >   
 > **Alain de Botton**
 
@@ -26,7 +32,7 @@ description: Various pretentious quotes that I have found meaningful over time.
 
 \*\*\*\*
 
-> Don't ask how to survive or how to be successful, ask how to be useful
+> Don't ask how to survive or how to be successful, ask how to be useful.
 
 
 
