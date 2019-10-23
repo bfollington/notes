@@ -34,6 +34,7 @@
   * [The Compliment](philosophy/musings/the-compliment.md)
   * [Incorrect Assumptions](philosophy/musings/incorrect-assumptions.md)
 * [Incomplete Articles](philosophy/incomplete-articles/README.md)
+  * [Receptivity](philosophy/incomplete-articles/receptivity.md)
   * [The Hustle](philosophy/incomplete-articles/the-hustle.md)
   * [Sense and Sensation](philosophy/incomplete-articles/sense-and-sensation.md)
   * [Truly Celebrating Difference](philosophy/incomplete-articles/truly-celebrating-difference.md)
