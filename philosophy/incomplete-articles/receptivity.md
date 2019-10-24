@@ -12,15 +12,19 @@ See when we talk, we like to think it's a process of:
 Person A -> Words describing idea perfectly -> Person B
 ```
 
-The problem here is several fold. Firstly, words don't actually have the exact same meaning to Person A and Person B, which often leads to us saying things like "What exactly do you _mean_ when you say climate change is a hoax?", thinly veiling our rage. 
+The problem here is several fold. Firstly, words don't actually have the exact same meaning to Person A and Person B, which often leads to us saying things like "What exactly do you _mean_ when you say climate change is a hoax?", thinly veiling our rage. This is what people refer to as a semantic disagreement, you can't even agree on what the words mean let alone the idea being communicated. Some people like to pretend this problem isn't real, because dictionaries exist. Meaning is a funny thing though, the main defining characteristic of a word is not the same for everyone.
+
+I am reminded of one of my favourite Buddhist / Jain / Hindu parables: Blind men and an elelphant.
+
+> A group of blind men heard that a strange animal, called an elephant, had been brought to the town, but none of them were aware of its shape and form. Out of curiosity, they said: "We must inspect and know it by touch, of which we are capable". So, they sought it out, and when they found it they groped about it. In the case of the first person, whose hand landed on the trunk, said "This being is like a thick snake". For another one whose hand reached its ear, it seemed like a kind of fan. As for another person, whose hand was upon its leg, said, the elephant is a pillar like a tree-trunk. The blind man who placed his hand upon its side said the elephant, "is a wall". Another who felt its tail, described it as a rope. The last felt its tusk, stating the elephant is that which is hard, smooth and like a spear.
+
+The point here, of course, is that none of them were _wrong_ about the elephant. They simply had different conceptions of what its defining feature was. This metaphor extends to any kind of idea we are trying to understand and discuss. Luckily it's not too hard to work around, if we are careful to define our terms before making a point then others can see what _we_ think words mean.
+
+What makes matters worse though is that it doesn't end here. It turns out ideas have a little baggage with them. Sometimes quite a lot. An idea is not an atomic thing, it cannot be cleanly separated from its related siblings in your brain. In my view, ideas are defined by their relationship to other ideas, with a few key pillars holding everything in place. Trying to pluck one out means we probably need to also communicate all the related ideas, and perhaps even some of the ideas relating to _those._ 
 
 _/\* Insert explanation of Idea -&gt; Words -&gt; Sounds -&gt; Words -&gt; Ideas model \*/_
 
-What makes matters worse though is that it doesn't end here.
-
-Well, it turns out ideas have a little baggage with them. Sometimes quite a lot. An idea is not an atomic thing, it cannot be cleanly separated from its related siblings in your brain. 
-
-So when we go through this bizarre translation process, the idea gets to the other end and just... Bounces off.
+So off we go through this bizarre translation process, the idea gets to the other end and just... Bounces off. _Seriously?_ We did all that work to communicate _exactly_ the idea in our head and they just reject it outright?
 
 _\(Jigsaw puzzle piece not fitting\)_
 
