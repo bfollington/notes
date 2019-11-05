@@ -7,6 +7,9 @@
 
 * [Quotes](philosophy/quotes.md)
 * [Musings](philosophy/musings/README.md)
+  * [Awareness](philosophy/musings/awareness.md)
+  * [Truth](philosophy/musings/truth.md)
+  * [Problems](philosophy/musings/problems.md)
   * [Growth and Chaos](philosophy/musings/growth-and-chaos.md)
   * [Stillness](philosophy/musings/stillness.md)
   * [Ego](philosophy/musings/ego.md)
