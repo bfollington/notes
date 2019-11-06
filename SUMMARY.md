@@ -58,3 +58,10 @@
   * [1000 True Fans](archives/other-peoples-work/1000-true-fans.md)
 * [Journal Articles](archives/untitled.md)
 
+## Meditation
+
+* [The Body](meditation/the-body.md)
+* [Consciousness](meditation/consciousness.md)
+* [Relaxation](meditation/relaxation.md)
+* [Metta](meditation/metta.md)
+
