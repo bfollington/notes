@@ -67,5 +67,8 @@
 
 ## Health
 
-* [Cardiac Disease Associations by Nutrient Intake](health/cardiac-disease-associations-by-nutrient-intake.md)
+* [Cardiac Disease](health/cardiac-disease/README.md)
+  * [Cholesterol](health/cardiac-disease/cholesterol.md)
+  * [Cardiac Disease Associations by Nutrient Intake](health/cardiac-disease/cardiac-disease-associations-by-nutrient-intake.md)
+  * [Sources of Dietary Fat](health/cardiac-disease/sources-of-dietary-fat.md)
 
