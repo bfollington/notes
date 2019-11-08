@@ -56,6 +56,12 @@ description: 'A meditation for focusing on love, in the abstract'
 * They are humans, with just as much depth of experience as ourselves and our loved ones
 * And they are hurting, they act out their suffering on others
 * But we love them regardless
+* Finally, think of yourself
+* You are no different to any of these people, you wish yourself the best in life too
+* In your head, think the words "I love myself" and let the idea sink in
+* Loving ourselves and loving others, there is no difference
+  * Two sides of the same coin
+* Promise you will be gentler and kinder to yourself
 
 
 
