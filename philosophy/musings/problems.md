@@ -1,4 +1,4 @@
 # Problems
 
-Reality is not problematic, you are the problem
+Reality is not problematic, you are the source of the problem.
 
