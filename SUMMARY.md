@@ -72,3 +72,9 @@
   * [Cardiac Disease Associations by Nutrient Intake](health/cardiac-disease/cardiac-disease-associations-by-nutrient-intake.md)
   * [Sources of Dietary Fat](health/cardiac-disease/sources-of-dietary-fat.md)
 
+## Programming
+
+* [Functional Programming](programming/functional-programming/README.md)
+  * [Mailbox Processors](programming/functional-programming/mailbox-processors.md)
+  * [Parse, don’t validate](programming/functional-programming/parse-dont-validate.md)
+
