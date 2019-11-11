@@ -78,3 +78,13 @@
   * [Mailbox Processors](programming/functional-programming/mailbox-processors.md)
   * [Parse, don’t validate](programming/functional-programming/parse-dont-validate.md)
 
+## Interesting Websites
+
+* [erowid.org](https://erowid.org/experiences/)
+* [gwern.net](https://www.gwern.net)
+* [moretothat.com](https://moretothat.com/)
+* [designluck.com](https://designluck.com/library/)
+* [signalvnoise.com](https://m.signalvnoise.com/)
+* [fs.blog](https://fs.blog/)
+* [bullets.news](https://bullets.news/)
+
