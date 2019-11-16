@@ -4,48 +4,41 @@ description: The most useful supplements to me currently
 
 # Supplementation
 
-General Wellness
+#### General Wellness
 
 * Staments 7 mushrooms
 * Athletic greens whole foods
 * Fish oil
 
-  
-Sleep
+#### Sleep
 
 * Melatonin
 
-  
-Mood
+#### Mood
 
 * Green tea + L-Theanine
 * Coffee
 * 5-HTP, L-Tyrosine \(Onnit: New Mood\)
 * CBD + full spectrum cannabinoids
 
-  
-Memory
+#### Memory
 
 * Bacopa Monierri
 
-  
-Cognitive / Creative
+#### Cognitive / Creative
 
 * THC
 * LSD / Psilocybin
 * MCT Oil
 * Alpha Brain
 
-  
-Immune
+#### Immune
 
 * Ginger, chilli, garlic
 * Tumeric \(Curcumin\)
 * Echinnachea 
 
-
-
-Exercise
+#### Exercise
 
 * Cordyceps Mushrooms \(Onnit: Shroomtech Sport\)
 * Creatine Monohydrate
