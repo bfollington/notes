@@ -49,6 +49,29 @@
   * [Accessibility in Games: Can I Play Too?](philosophy/incomplete-articles/accessibility-in-games-can-i-play-too.md)
   * [Why I Like Video Games](philosophy/incomplete-articles/why-i-like-video-games.md)
 
+## Meditation
+
+* [The Body](meditation/the-body.md)
+* [Consciousness](meditation/consciousness.md)
+* [Relaxation](meditation/relaxation.md)
+* [Metta](meditation/metta.md)
+
+## Programming
+
+* [Functional Programming](programming/functional-programming/README.md)
+  * [Mailbox Processors](programming/functional-programming/mailbox-processors.md)
+  * [Parse, don’t validate](programming/functional-programming/parse-dont-validate.md)
+
+## Health
+
+* [Supplementation](health/supplementation.md)
+* [Simple Nutrition](health/simple-nutrition.md)
+* [Exercise](health/exercise.md)
+* [Cardiac Disease](health/cardiac-disease/README.md)
+  * [Cholesterol](health/cardiac-disease/cholesterol.md)
+  * [Cardiac Disease Associations by Nutrient Intake](health/cardiac-disease/cardiac-disease-associations-by-nutrient-intake.md)
+  * [Sources of Dietary Fat](health/cardiac-disease/sources-of-dietary-fat.md)
+
 ## Archives
 
 * [Other People's Work](archives/other-peoples-work/README.md)
@@ -57,28 +80,6 @@
   * [The Church of Interruption](archives/other-peoples-work/the-church-of-interruption.md)
   * [1000 True Fans](archives/other-peoples-work/1000-true-fans.md)
 * [Journal Articles](archives/untitled.md)
-
-## Meditation
-
-* [The Body](meditation/the-body.md)
-* [Consciousness](meditation/consciousness.md)
-* [Relaxation](meditation/relaxation.md)
-* [Metta](meditation/metta.md)
-
-## Health
-
-* [Supplementation](health/supplementation.md)
-* [Simple Nutrition](health/simple-nutrition.md)
-* [Cardiac Disease](health/cardiac-disease/README.md)
-  * [Cholesterol](health/cardiac-disease/cholesterol.md)
-  * [Cardiac Disease Associations by Nutrient Intake](health/cardiac-disease/cardiac-disease-associations-by-nutrient-intake.md)
-  * [Sources of Dietary Fat](health/cardiac-disease/sources-of-dietary-fat.md)
-
-## Programming
-
-* [Functional Programming](programming/functional-programming/README.md)
-  * [Mailbox Processors](programming/functional-programming/mailbox-processors.md)
-  * [Parse, don’t validate](programming/functional-programming/parse-dont-validate.md)
 
 ## Interesting Websites
 
