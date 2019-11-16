@@ -68,6 +68,7 @@
 * [Supplementation](health/supplementation.md)
 * [Simple Nutrition](health/simple-nutrition.md)
 * [Exercise](health/exercise.md)
+* [Protein Shake Ingredients List](health/protein-shake-ingredients-list.md)
 * [Cardiac Disease](health/cardiac-disease/README.md)
   * [Cholesterol](health/cardiac-disease/cholesterol.md)
   * [Cardiac Disease Associations by Nutrient Intake](health/cardiac-disease/cardiac-disease-associations-by-nutrient-intake.md)
