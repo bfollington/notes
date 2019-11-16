@@ -2,7 +2,7 @@
 description: 'Rules to live by, if you''re me anyway'
 ---
 
-# Manifesto
+# Remember
 
 1. Your life is not and does not have to be better than everyone else's
 2. The life you build is about your own happiness, not being "great" in others' eyes
@@ -19,4 +19,6 @@ description: 'Rules to live by, if you''re me anyway'
 13. Have faith in humanity
 14. Attempt to live an exemplary life
 15. Respond, don't react
+
+
 

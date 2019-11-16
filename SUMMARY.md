@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Manifesto](README.md)
+* [Remember](README.md)
 * [Priorities](priorities.md)
 
 ## Philosophy
