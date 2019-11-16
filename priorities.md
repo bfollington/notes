@@ -1,7 +1,5 @@
 ---
-description: >-
-  My list of priorities at the given time, these shuffle around pretty
-  regularly.
+description: 'My list of priorities at the given time, these shuffle around'
 ---
 
 # Priorities

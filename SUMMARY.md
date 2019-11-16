@@ -7,6 +7,7 @@
 
 * [Quotes](philosophy/quotes.md)
 * [Musings](philosophy/musings/README.md)
+  * [Compassion vs Action](philosophy/musings/compassion-vs-action.md)
   * [Awareness](philosophy/musings/awareness.md)
   * [Truth](philosophy/musings/truth.md)
   * [Problems](philosophy/musings/problems.md)
