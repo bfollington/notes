@@ -43,6 +43,11 @@
 
 * Root vegetables
 
+**Foods I should be eating less of**
+
+* Beef
+* Pork
+
 **Foods I try to avoid \(but often fail\)**
 
 * Bread
