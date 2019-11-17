@@ -68,7 +68,8 @@
 
 * [Simple Nutrition](health/simple-nutrition.md)
 * [Supplementation](health/supplementation.md)
-* [Exercise](health/exercise.md)
+* [Exercise](health/exercise/README.md)
+  * [Mobility Routines](health/exercise/mobility-routines.md)
 * [Protein Shake Ingredients List](health/protein-shake-ingredients-list.md)
 * [Cardiac Disease](health/cardiac-disease/README.md)
   * [Cholesterol](health/cardiac-disease/cholesterol.md)
