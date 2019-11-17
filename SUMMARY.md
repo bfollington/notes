@@ -50,6 +50,10 @@
   * [How to stay off your phone](philosophy/incomplete-articles/how-to-stay-off-your-phone.md)
   * [Accessibility in Games: Can I Play Too?](philosophy/incomplete-articles/accessibility-in-games-can-i-play-too.md)
   * [Why I Like Video Games](philosophy/incomplete-articles/why-i-like-video-games.md)
+* [Resources](philosophy/resources/README.md)
+  * [Podcasts](philosophy/resources/podcasts.md)
+  * [Books](philosophy/resources/books.md)
+  * [Videos](philosophy/resources/videos.md)
 
 ## Meditation
 
