@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Remember](README.md)
+* [👋 Hello!](hello.md)
 * [Priorities](priorities.md)
 
 ## Philosophy
