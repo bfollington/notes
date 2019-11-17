@@ -74,6 +74,7 @@
 ## Health
 
 * [Simple Nutrition](health/simple-nutrition.md)
+* [Fasting](health/fasting.md)
 * [Supplementation](health/supplementation.md)
 * [Exercise](health/exercise/README.md)
   * [Mobility Routines](health/exercise/mobility-routines.md)
