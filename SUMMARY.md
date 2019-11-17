@@ -77,6 +77,7 @@
 * [Fasting](health/fasting.md)
 * [Supplementation](health/supplementation.md)
 * [Exercise](health/exercise/README.md)
+  * [Movement as the Core Principle](health/exercise/movement-as-the-core-principle.md)
   * [Mobility Routines](health/exercise/mobility-routines.md)
 * [Protein Shake Ingredients List](health/protein-shake-ingredients-list.md)
 * [Cardiac Disease](health/cardiac-disease/README.md)
