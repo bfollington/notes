@@ -1,24 +1,30 @@
 ---
-description: 'Rules to live by, if you''re me anyway'
+description: Good to see you
 ---
 
-# Remember
+# 👋 Hello!
 
-1. Your life is not and does not have to be better than everyone else's
-2. The life you build is about your own happiness, not being "great" in others' eyes
-3. Aim for contentment in the moment and ambition for the future, contentment is not complacency
-4. Never be ashamed of liking something because it's outside of your, or anyone else's, taste
-5. Always strive to understand others' views even when they contradict your own, there is something to learn from every disagreement
-6. Readily accept and enjoy recommendations from others
-7. It's okay to love working but not for it to be all encompassing, relax and enjoy the moment
-8. If someone doesn't know how to do something, teach them patiently
-9. Whenever you are frustrated, consider if it's worthwhile to burn the energy on anger
-10. Seek perspective in all things, but don't do anything for the sake of it
-11. Set goals and work hard to achieve them, but not to the detriment of yourself
-12. Be compassionate and care for others but never put their wellbeing before your own
-13. Have faith in humanity
-14. Attempt to live an exemplary life
-15. Respond, don't react
+Hi, welcome to my notes.
 
+This is basically a public repository of things I've learned, collected or found interesting enough to write down but that aren't suitable for blog posts. None of this is presented as fact or even recommendation, merely my personal views and interests. This is all a perpetual work-in-progress, I'm attempting to be raw and learn openly.
 
+Broadly, you'll find here:
+
+* Philosophy, in the "how to live a good life" sense
+* Emotional wellbeing
+* Meditation 
+* Programming
+* Video Games
+* How to get shit done
+* Efficiency
+* Minimalism
+* Essentialism
+* Art and creation
+* Health
+* Exercise
+* General scientific inquiry
+
+These resources helped me chart my course from a shy, sad, anxious, self-centred and lost little boy to a proud, stable, happy and kinda nice\(?\) adult. I provide no guarantees they will do the same for you, but there's a chance.
+
+Please let me know of any resources you think I might like after poking around here 😁
 

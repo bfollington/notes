@@ -2,7 +2,7 @@
 description: 'My list of priorities at the given time, these shuffle around'
 ---
 
-# Priorities
+# 🆗 Priorities
 
 1. **Physical, emotional and spiritual wellbeing**
 
