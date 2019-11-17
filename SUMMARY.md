@@ -53,6 +53,7 @@
 
 ## Meditation
 
+* [Progression](meditation/progression.md)
 * [The Body](meditation/the-body.md)
 * [Consciousness](meditation/consciousness.md)
 * [Relaxation](meditation/relaxation.md)
