@@ -6,16 +6,17 @@ description: My opinions on web development
 
 ## Hot Takes
 
-1. Typescript is better than Javascript
-2. The Cascading part of CSS is a mistake
-3. CSS-in-JS \(a.k.a. CSS-in-TS\) is good
+1. [Typescript](https://www.typescriptlang.org/) is better than Javascript
+2. [The Cascading part of CSS is a mistake](https://www.youtube.com/watch?v=iniwPUEbPUM)
+3. [CSS-in-JS](https://github.com/emotion-js/emotion) \(a.k.a. CSS-in-TS\) is good
 4. Style overrides are almost never good
 5. Immutability and purity are essential
-6. Redux is irrelevant
+6. [Redux is irrelevant](https://kentcdodds.com/blog/application-state-management-with-react)
 7. GraphQL is good
-8. Approaches like redux-thunk and redux-saga are an anti-pattern
+8. [Approaches like redux-thunk and redux-saga are an anti-pattern](https://github.com/bfollington/use-stream)
 9. Typescript should just add support for pattern matching and `|>` 
 10. Semicolons suck
+11. If you've gotta use CSS, use [BEM](http://getbem.com/introduction/)
 
 ## Technology Stacks
 
