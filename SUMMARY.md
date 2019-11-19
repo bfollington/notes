@@ -79,6 +79,7 @@
 * [Exercise](health/exercise/README.md)
   * [Movement as the Core Principle](health/exercise/movement-as-the-core-principle.md)
   * [Mobility Routines](health/exercise/mobility-routines.md)
+  * [Daily Morning Warmup](health/exercise/daily-morning-warmup.md)
 * [Protein Shake Ingredients List](health/protein-shake-ingredients-list.md)
 * [Cardiac Disease](health/cardiac-disease/README.md)
   * [Cholesterol](health/cardiac-disease/cholesterol.md)
