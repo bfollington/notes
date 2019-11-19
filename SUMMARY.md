@@ -67,7 +67,8 @@
 
 ## Programming
 
-* [Modern Frontend Development](programming/modern-frontend-development.md)
+* [Modern Frontend Development](programming/modern-frontend-development/README.md)
+  * [Code Formatter Config](programming/modern-frontend-development/code-formatter-config.md)
 * [F\# + Unity3d](programming/f-+-unity3d.md)
 * [Design Systems](programming/design-systems.md)
 * [Property-based Testing](programming/property-based-testing.md)

@@ -15,6 +15,7 @@ description: My opinions on web development
 7. GraphQL is good
 8. Approaches like redux-thunk and redux-saga are an anti-pattern
 9. Typescript should just add support for pattern matching and `|>` 
+10. Semicolons suck
 
 ## Technology Stacks
 
@@ -29,6 +30,7 @@ description: My opinions on web development
 * fp-ts
 * framer-motion
 * use-spring
+* jest
 
 #### Reason
 
@@ -48,4 +50,6 @@ description: My opinions on web development
 ### iOS
 
 #### SwiftUI
+
+#### React Native
 
