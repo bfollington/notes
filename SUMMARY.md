@@ -67,7 +67,12 @@
 
 ## Programming
 
+* [Design Systems](programming/design-systems.md)
+* [Property-based Testing](programming/property-based-testing.md)
+* [Observables & Rx](programming/observables-and-rx.md)
 * [Functional Programming](programming/functional-programming/README.md)
+  * [Domain Modelling Made Functional](programming/functional-programming/domain-modelling-made-functional.md)
+  * [Functional Core, Imperative Shell](programming/functional-programming/functional-core-imperative-shell.md)
   * [Mailbox Processors](programming/functional-programming/mailbox-processors.md)
   * [Parse, don’t validate](programming/functional-programming/parse-dont-validate.md)
 
