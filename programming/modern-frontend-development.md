@@ -32,7 +32,6 @@ description: My opinions on web development
 
 #### Reason
 
-* Reason
 * ReasonReact
 * bs-css
 * wonka
