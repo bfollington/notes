@@ -6,7 +6,8 @@
 
 ## Philosophy
 
-* [Quotes](philosophy/quotes.md)
+* [Quotes](philosophy/quotes/README.md)
+  * [Feynmen on Curiosity vs Motivation](philosophy/quotes/feynmen-on-curiosity-vs-motivation.md)
 * [Musings](philosophy/musings/README.md)
   * [Overthinking](philosophy/musings/overthinking.md)
   * [Addiction](philosophy/musings/addiction.md)

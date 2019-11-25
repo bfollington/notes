@@ -5,5 +5,5 @@ description: >-
 
 # Cardiac Disease Associations by Nutrient Intake
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
