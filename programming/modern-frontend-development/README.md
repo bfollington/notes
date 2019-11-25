@@ -47,6 +47,8 @@ description: My opinions on web development
 
 * F\#
 * Fable
+* [Feliz](https://zaid-ajaj.github.io/Feliz/)
+* Elmish
 
 ### iOS
 
