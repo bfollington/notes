@@ -68,6 +68,7 @@
 
 ## Programming
 
+* [Programming Languages](programming/programming-languages.md)
 * [Modern Frontend Development](programming/modern-frontend-development/README.md)
   * [Elm](programming/modern-frontend-development/elm.md)
   * [Code Formatter Config](programming/modern-frontend-development/code-formatter-config.md)
