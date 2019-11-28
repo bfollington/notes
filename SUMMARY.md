@@ -88,6 +88,7 @@
 * [Fasting](health/fasting.md)
 * [Supplementation](health/supplementation.md)
 * [Exercise](health/exercise/README.md)
+  * [Qi Gong / Tai Chi / Gong Fu](health/exercise/qi-gong-tai-chi-gong-fu.md)
   * [Movement as the Core Principle](health/exercise/movement-as-the-core-principle.md)
   * [Mobility Routines](health/exercise/mobility-routines.md)
   * [Daily Morning Warmup](health/exercise/daily-morning-warmup.md)
