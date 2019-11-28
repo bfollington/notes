@@ -12,6 +12,8 @@ description: Resources and links for Elm
 
 {% embed url="https://github.com/dillonkearns/elm-graphql" %}
 
+{% embed url="https://github.com/rtfeldman/elm-css" %}
+
 
 
 
