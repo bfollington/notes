@@ -77,6 +77,8 @@
 * [Property-based Testing](programming/property-based-testing.md)
 * [Observables & Rx](programming/observables-and-rx.md)
 * [Functional Programming](programming/functional-programming/README.md)
+  * [Property Based Testing](programming/functional-programming/property-based-testing.md)
+  * [Key Terminology](programming/functional-programming/key-terminology.md)
   * [Domain Modelling Made Functional](programming/functional-programming/domain-modelling-made-functional.md)
   * [Functional Core, Imperative Shell](programming/functional-programming/functional-core-imperative-shell.md)
   * [Mailbox Processors](programming/functional-programming/mailbox-processors.md)

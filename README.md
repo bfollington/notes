@@ -6,7 +6,7 @@ description: Good to see you
 
 Hi, welcome to my notes.
 
-This is basically a public repository of things I've learned, collected or found interesting enough to write down but that aren't suitable for blog posts. None of this is presented as fact or even recommendation, merely my personal views and interests. This is all a perpetual work-in-progress, I'm attempting to be raw and learn openly.
+This is basically a public repository of things I've learned, collected or found interesting enough to write down but that aren't suitable for blog posts. None of this is presented as fact or even recommendation, merely my personal thought processes and interests. This is all a perpetual work-in-progress, I'm attempting to be raw and learn openly.
 
 Broadly, you'll find here:
 
@@ -24,7 +24,7 @@ Broadly, you'll find here:
 * Exercise
 * General scientific inquiry
 
-These resources helped me chart my course from a shy, sad, anxious, self-centred and lost little boy to a proud, stable, happy and kinda nice\(?\) adult. I provide no guarantees they will do the same for you, but there's a chance.
+These resources are part of my effort to be healthy, happy, skilled and caring person. I provide no guarantees they will do any of that, but there's a chance.
 
-Please let me know of any resources you think I might like after poking around here 😁
+Please let me know of anything you think I might like after poking around here 😁
 

@@ -11,8 +11,8 @@ description: My opinions on web development
 3. [CSS-in-JS](https://github.com/emotion-js/emotion) \(a.k.a. CSS-in-TS\) is good
 4. Style overrides are almost never good
 5. Immutability and purity are essential
-6. [Redux is irrelevant](https://kentcdodds.com/blog/application-state-management-with-react)
-7. GraphQL is good
+6. [Redux is mostly irrelevant](https://kentcdodds.com/blog/application-state-management-with-react)
+7. GraphQL is cool
 8. [Approaches like redux-thunk and redux-saga are an anti-pattern](https://github.com/bfollington/use-stream)
 9. Typescript should just add support for pattern matching and `|>` 
 10. Semicolons suck

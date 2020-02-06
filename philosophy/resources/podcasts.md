@@ -6,7 +6,7 @@ description: This is a pretty obvious list honestly
 
 ## Joe Rogan
 
-Joe is Joe \(lovable once you get to know him\), lots of interesting people come on, excellent starting point.
+Joe is Joe \(lovable once you get to know him\), lots of interesting people come on.
 
 {% embed url="http://podcasts.joerogan.net/" caption="" %}
 
@@ -22,7 +22,7 @@ Joe is Joe \(lovable once you get to know him\), lots of interesting people come
 
 ## Peter Attia
 
-Deep insight into health and longevity from a very smart man.
+Deep insight into health and longevity from a ripped doctor.
 
 {% embed url="https://peterattiamd.com/podcast/" caption="" %}
 
@@ -32,13 +32,13 @@ Deep insight into health and longevity from a very smart man.
 
 ## Sean Carroll
 
-Sean can be a bit whiney, but there is some amazing scientific understanding here
+Sean is a smart man, keeping my interest in physics alive.
 
 {% embed url="https://www.preposterousuniverse.com/podcast/" caption="" %}
 
 ## Aubrey Marcus
 
-Aubrey can get a little bit woo-woo and mystical, but if you can stomach it he's lovely.
+Aubrey is _very_ spiritual dude, but if you're into that he's lovely.
 
 {% embed url="https://www.aubreymarcus.com/blogs/aubrey-marcus/tagged/aubrey-marcus-podcast" caption="" %}
 
@@ -50,7 +50,7 @@ Aubrey can get a little bit woo-woo and mystical, but if you can stomach it he's
 
 ## Tim Ferris
 
-Tim is a human-robot in a lot of ways, which I personally empathise with and enjoy.
+Tim is kinda of a human-robot which I personally relate to.
 
 {% embed url="https://tim.blog/podcast/" caption="" %}
 
@@ -72,7 +72,7 @@ Tim is a human-robot in a lot of ways, which I personally empathise with and enj
 
 ## Shane Parrish
 
-Shane honestly gives me too much information to handle, which I like.
+Shane gives me too much information to handle.
 
 {% embed url="https://fs.blog/the-knowledge-project/" caption="" %}
 

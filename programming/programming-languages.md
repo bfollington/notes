@@ -5,7 +5,7 @@ description: Power rankings
 # Programming Languages
 
 **Favourite**  
-Typescript, FSharp, Elm
+Typescript, F\#, Elm
 
   
 **Most Used**  
