@@ -69,13 +69,7 @@
 ## Programming
 
 * [Programming Languages](programming/programming-languages.md)
-* [Modern Frontend Development](programming/modern-frontend-development/README.md)
-  * [Elm](programming/modern-frontend-development/elm.md)
-  * [Code Formatter Config](programming/modern-frontend-development/code-formatter-config.md)
-* [F\# + Unity3d](programming/f-+-unity3d.md)
-* [Design Systems](programming/design-systems.md)
-* [Property-based Testing](programming/property-based-testing.md)
-* [Observables & Rx](programming/observables-and-rx.md)
+* [Software Architecture](programming/software-architecture.md)
 * [Functional Programming](programming/functional-programming/README.md)
   * [Property Based Testing](programming/functional-programming/property-based-testing.md)
   * [Key Terminology](programming/functional-programming/key-terminology.md)
@@ -83,6 +77,13 @@
   * [Functional Core, Imperative Shell](programming/functional-programming/functional-core-imperative-shell.md)
   * [Mailbox Processors](programming/functional-programming/mailbox-processors.md)
   * [Parse, don’t validate](programming/functional-programming/parse-dont-validate.md)
+* [Modern Frontend Development](programming/modern-frontend-development/README.md)
+  * [Elm](programming/modern-frontend-development/elm.md)
+  * [Code Formatter Config](programming/modern-frontend-development/code-formatter-config.md)
+* [F\# + Unity3d](programming/f-+-unity3d.md)
+* [Design Systems](programming/design-systems.md)
+* [Property-based Testing](programming/property-based-testing.md)
+* [Observables & Rx](programming/observables-and-rx.md)
 
 ## Health
 

@@ -10,5 +10,7 @@
 
 {% embed url="https://player.fm/series/series-1401837/ep-134-mark-dalgleish-you-should-be-using-layout-components" %}
 
+{% embed url="https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62" %}
+
 
 
