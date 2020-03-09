@@ -19,6 +19,19 @@ description: >-
 
 ![My take on video-game architecture](../.gitbook/assets/arch.png)
 
+When considering game architecture specifically a few extra elements become relevant:
+
+* Zero-allocation event dispatch
+  * Object pooling
+* Minimal-allocation state update
+  * Clever immutable data structures
+* Minimal-allocation projection update
+  * Infrequent projection changes can allocate
+  * Frequent projection changes should be computed with no allocation
+* Minimal-runtime-instantiation of game entities
+  * Object pooling
+* Object lifecycle handling, no dangling subscriptions
+
 ## Data-Oriented Architecture
 
 {% embed url="https://blog.eyas.sh/2020/03/data-oriented-architecture/" %}
