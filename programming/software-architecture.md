@@ -49,5 +49,7 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=STKCRSUsyP0" %}
 
+{% embed url="https://github.com/kgrzybek/modular-monolith-with-ddd" %}
+
 
 
