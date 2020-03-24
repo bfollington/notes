@@ -125,3 +125,7 @@
 
 * [Techniques](game-development/techniques.md)
 
+## Hackintosh
+
+* [Clover Update Steps](hackintosh/clover-update-steps.md)
+
